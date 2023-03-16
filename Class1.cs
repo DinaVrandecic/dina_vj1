@@ -8,6 +8,11 @@ namespace dina_vj1
 {
     class Class1
     {
-        //com
+        int METODA()
+        {
+            return 1;
+            
+        }
+
     }
 }
