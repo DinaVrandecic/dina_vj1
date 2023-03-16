@@ -11,7 +11,8 @@ namespace dina_vj1
         static void Main(string[] args)
         {
             Console.WriteLine("Novo");
-            Console.WriteLine("Hello world");
+            Console.WriteLine("Hello world fdag");
+            //komentar
         }
     }
 }
