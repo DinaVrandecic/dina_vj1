@@ -12,6 +12,7 @@ namespace dina_vj1
         {
             Console.WriteLine("Novo");
             Console.WriteLine("Hello world fdag");
+            //komentar
         }
     }
 }
