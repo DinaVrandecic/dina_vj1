@@ -10,7 +10,7 @@ namespace dina_vj1
     {
         int METODA()
         {
-            return 1;
+            return 2;
             
         }
 
